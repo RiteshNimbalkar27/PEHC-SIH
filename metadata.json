@@ -1,0 +1,5 @@
+{
+  "name": "PEHC: Digital Health Records for Migrant Workers",
+  "description": "A web application demonstrating the Portable Encrypted Health Capsule (PEHC) system, a digital health record management solution for migrant workers, focusing on offline access, privacy, and public health surveillance.",
+  "requestFramePermissions": []
+}
